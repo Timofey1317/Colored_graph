@@ -1,5 +1,5 @@
 # Colored_graph
-/home/tima/Filsa/data/tests/gc_70_3 10
+/home/ tima /Filsa/data/tests/gc_70_3 10
 
 /home/ tima /Filsa/data/tests/gc_70_9 31
 
